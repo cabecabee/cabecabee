@@ -14,7 +14,7 @@ here are some languages i know:
 
 ## my links.
 
-[![Static Badge](https://img.shields.io/badge/devforum-blue?logo=robloxstudio&logoColor=%2300A2FF)](https://devforum.roblox.com/u/cabbecaa/summary)
+[![Static Badge](https://img.shields.io/badge/devforum-gray?logo=robloxstudio&logoColor=%2300A2FF)](https://devforum.roblox.com/u/cabbecaa/summary)
 
 ---
 
