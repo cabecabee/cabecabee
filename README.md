@@ -1,16 +1,15 @@
-## Hi there 👋
+# cabeca.
+hii, i'm cabeca, a brazilian computers enthusiast currently taking a technical course in IT.
+here are some languages i know:
+* python
+* java
+* SQL
+* lua/luau
+---
+## my github stats.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cabecabee&theme=nightowl&show_icons=true)
+---
+## my links.
+[roblox devforum](https://devforum.roblox.com/u/cabbecaa/summary)
 
-<!--
-**cabecabee/cabecabee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
