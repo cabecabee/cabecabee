@@ -18,6 +18,9 @@ here are some languages i know:
 
 ---
 
-![bruhcat](https://github.com/cabecabee/cabecabee/blob/c1b6f4985f9ce44f63afbd3ea5aff17b8035f371/bruhcat.gif)
+<p align="center">
+  <img src="https://github.com/cabecabee/cabecabee/blob/c1b6f4985f9ce44f63afbd3ea5aff17b8035f371/bruhcat.gif">
+  <img src="Gremio_logo.svg" width="3%">
+</p>
 
 
