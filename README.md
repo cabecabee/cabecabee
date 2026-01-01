@@ -8,7 +8,7 @@ here are some languages i know:
 ---
 ## my github stats.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cabecabee&theme=nightowl&show_icons=true)
+[![github stats](https://github-readme-stats.vercel.app/api?username=cabecabee&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
